@@ -2,6 +2,8 @@
 
 A single-page, responsive React landing page for Northline's career-focused learning workshops, built from the supplied desktop (1440px) and mobile (390px) design references. It includes an accessible registration enquiry form that validates in the browser and confirms locally. **No data is sent anywhere:** there is no backend, payment, tracking or external service.
 
+**Live site:** https://northline-registration-landing.vercel.app (deployed on Vercel from the `main` branch)
+
 ## Requirements
 
 - Node.js 18 or newer (tested with Node 25.1.0 and npm 11.6.3)
